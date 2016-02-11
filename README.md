@@ -1,3 +1,3 @@
 # hello-world
 
-Obligataorisch
+Obligataorisch ist hier was zu schreiben
